@@ -1,7 +1,23 @@
+
 <!DOCTYPE html>
 <html>
 <head>
   <title>Coding Journey</title>
+  <style>
+    body {
+      background-color: lightblue;
+    }
+    h1 {
+      color: darkblue;
+    }
+    p {
+      color: black;
+    }
+    button {
+      background-color: navy;
+      color: white;
+    }
+  </style>
 </head>
 <body>
 
